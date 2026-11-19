@@ -1,4 +1,4 @@
-# Data Structures — Advanced Exam 03
+# Data Structures — Advanced Exam 
 
 مجموعه‌ی آزمون تشریحی سطح دشوار/استادی درس ساختمان داده، همراه با پاسخ‌نامه‌ی تشریحی و پیاده‌سازی‌های C++.
 
